@@ -1,4 +1,4 @@
-# Interpret-a-Data-Visualization
+# Project Description: Interpret a Data Visualization
 This is the 1st project in Udacity's Business Analytics Nanodegree
 
 In this project, a visualization was given for the student to derive any three (3) insights.
